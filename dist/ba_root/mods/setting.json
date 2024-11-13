@@ -289,7 +289,7 @@
         "default_boxing_gloves": true,
         "default_shield": false,
         "default_bomb": "normal",
-        "default_bomb_count": 2
+        "default_bomb_count": 1
     },
     "betrayerSystem": {
         "enable": true,
@@ -305,7 +305,7 @@
     "allowInGameDm": true,
     "newResultBoard": true,
     "HostDeviceName": "v1.4",
-    "HostName": "VH-v2.0",
+    "HostName": "PS-v2.0",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
@@ -326,8 +326,8 @@
     "enablehptag": true,
     "enablerank": true,
     "enablestats": true,
-    "enableOldHitTexts": true,
-    "enableNewHitTexts": true,
+    "enableOldHitTexts": false,
+    "enableNewHitTexts": false,
     "enableeffects": true,
     "ShiningPlayers": true,
     "enableTop5effects": true,
