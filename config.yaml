@@ -36,7 +36,7 @@ port: 43210
 # multiple controllers. Also, this number currently includes the server so
 # generally make it 1 bigger than you need. Max-players is not currently
 # exposed but I'll try to add that soon.
-max_party_size: 8
+max_party_size: 7
 
 # Options here are 'ffa' (free-for-all), 'teams' and 'coop' (cooperative)
 # This value is ignored if you supply a playlist_code (see below).
@@ -47,7 +47,7 @@ max_party_size: 8
 # playlist editor in the regular version of the game.
 # This will give you a numeric code you can enter here to host that
 # playlist.
-playlist_code: 488469
+playlist_code: 488653
 
 # Alternately, you can embed playlist data here instead of using codes.
 # Make sure to set session_type to the correct type for the data here.
@@ -124,8 +124,8 @@ team_names:
 
 # Team colors (teams mode only).
 team_colors:
-- [0.8, 0.0, 0.6]
-- [0, 1, 0.8]
+- [1, 00, 0]
+- [1, 1, 1]
 
 # Whether to enable the queue where players can line up before entering
 # your server. Disabling this can be used as a workaround to deal with
