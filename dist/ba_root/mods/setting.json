@@ -118,12 +118,12 @@
         "barsBehindName": true
     },
     "autoNightMode": {
-        "enable": true,
+        "enable": false,
         "startTime": "18:30",
         "endTime": "06:30",
         "Snowfall": true,
-        "colorfullMap": true,
-        "colorful_explosions": true,
+        "colorfullMap": false,
+        "colorful_explosions": false,
         "fireflies": false,
         "fireflies_random_color": false
     },
@@ -289,7 +289,7 @@
         "default_boxing_gloves": true,
         "default_shield": false,
         "default_bomb": "normal",
-        "default_bomb_count": 1
+        "default_bomb_count": 2
     },
     "betrayerSystem": {
         "enable": true,
