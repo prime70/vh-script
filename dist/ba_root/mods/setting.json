@@ -58,7 +58,7 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048Welcome to PROVIN SQUAD SERVER\ue048",
+                "\ue048Welcome to PRIME OFFICIAL SMASH\ue048",
                 "\ue043JOIN OUR DISCORD Through STATS:)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
@@ -90,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : vh paradise :)",
+            "join our discord :)",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -107,7 +107,7 @@
             "\ue062PRIME\ue062",
             "\ue04bPROVIN SQUAD\ue04b",
             "\ue048ANDROBLAST\ue048",
-            "\ue04bPROVIN SQUAD\ue04b",
+            "\ue04bJOIN DISCORD\ue04b",
             "\ue062PRIME\ue062",
             "\ue048ANDROBLAST\ue048"
         ]
@@ -146,7 +146,7 @@
         "enable": false
     },
     "timetext": {
-        "enable": true,
+        "enable": false,
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
@@ -176,7 +176,7 @@
             "Powerup Scale": 1.0,
             "Powerup Name": true,
             "Powerup With Shield": false,
-            "Powerup Time": true,
+            "Powerup Time": false,
             "Powerups": {
                 "Shield": 0,
                 "Punch": 0,
@@ -253,7 +253,7 @@
         "notify_role": "<notify_role_id_here>"
     },
     "autoadmin": {
-        "enable": false,
+        "enable": true,
         "top_rank_count": 50,
         "admin_rank": [
             1
@@ -319,8 +319,8 @@
     "maxPlayersPerDevice": 2,
     "warnMsg": "WARNING !!! DONT DO AGAIN! :)",
     "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
-    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to the PROVIN SQUAD\ud83c\udf1f",
-    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to PROVIN SQUAD\ud83d\udc4b",
+    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to our server\ud83c\udf1f",
+    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to PRIME OFFICIAL SMASH\ud83d\udc4b",
     "contributeData": true,
     "enabletags": true,
     "enablehptag": true,
